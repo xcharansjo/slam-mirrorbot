@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coral-shoreline-288605",
+  "private_key_id": "09c98930c920ac046980151f764c33f19f65ed88",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCedHehUOUCXH0s\nVgKtG6zp/xOPdwd8f3HOImzuxMxbXIfynbbybR3KNiNtQMWnfG4Y2ZnE1om5Z1DW\nOvb1DHJTPhypOBrpMIO9SKGx/ahB0WzvKV5c37jsG9VrGkUK5TmuRCIi+ICA2jaH\nKkL4iUSi2QRdgfanOoqV7VSMCJCjFevU9l+05zVf0R3JVymAhPzvtgDCwmw74VdH\nFvqSjBCfhSkaE5KKSwRX78bhwshZcQKA/aSy0DUhDXhP5xlUVrM2M6+K50QNeaSX\nP3YM9yTgUVw9AMY/jSZXRPkvUspVpGEpb2rPe/DeytdTX8+QH7f2xdetUFIGfmft\n/QIadxolAgMBAAECggEAHnd0XQ8JyWdxJeovv4sXtzI1V5tiVBzJDAJwgYRTaqmi\n9hI/D+PNG4lHTIVsu6RgIuUL/N3nQz/LOjXCMCHBhaHmrt67xeRvICDr/iYwiN80\nm9OPcjoN+0/qvBoj9lFWwtwU2DaBtsS+QUTt9Y2nJcymWzhW7ZaC+QrV+8rVzJVn\nyMlJ6xb+OVzEeLmMVYM86/N+6VxuyRpZSo5gwgIVYF6NyU+pDu8lhliCO2otHYpg\nbEt1U7/Dsq7WCEoVv4t8SZIjLmX/8dpNTgd8Y3Aadlp4BtI808NMjlyMQENuPzpD\n7YJUdRNTuyBaI3SVzgRHriPtTxhHhr7nRHYevpANgQKBgQDYd6qJ1f4XMO/a/80v\nsRvbQHnlkSHqMpt9aPry8Yr2EKMJtyov0LffgwwjnKlwZ7XexMsWsAaXby3qgPMX\nBY1ocD1hqnRIpeqFC3nbv/r4HDsJWyoT+uFDewAqmb0ia7YvupLPxrI8Xy9gRZ/K\n8XpPFE7AvXvZpKd7hO0WFwr4YQKBgQC7ZJaQKM0YkZhE+KvciKjFtfieqR4okxz3\nsXZEM/O6ZN8c2YGqbYIRuYXotgbIzfcSc/of/xFh/22mFVMq7TmPlPjUEoYnOpMk\nfw70bGIkYvViUPs2CW2HxWQZ61ghEGsnGMxvU6LIqbM1emJwHnOPjrX/p4jCwgvy\nlDm6TpMoRQKBgQCDojl9ejj6h1LEXRu8bbof2RSHSntSPJYbbDR2efXj7ngGl3C7\nBPRboghGu6S56wdIwWkykbZgbkaAvQuWK1UzdlWNR6dQ6jwzzae7vwHx0NEBvoNX\nBQ/pBioyvayq+s8eNRnD6fNHDSb1J0GlmrSi1BmT0WY4Eo2aaln2Per44QKBgQCd\n4bG446do+8H+2kRyGfGYIijGBFaUeN3/ElVCQUMn17Ti6Z6FqJ3dsSFRX4t3w5BW\ny8ABFTXgCwSm2XCoyhWlEy5R/wloI8G1DhfbdzV40qdLnk8IyAiwS257J/2oXdzp\no8saQKz1w4RpmiM1s3JJkUNlkhF3hWXri1bX0TvKwQKBgQCqdllWNUASxdMNUiLx\nH4KEIFK1j9AaBDGZ0K/lAGh23VdGxQXbE4FXinzm7Gjn0LpPGGleCU7XMLfz2gaK\nOSPo+7lfxDrv06Evu3EDUtzhsOcj7DyanzMMQIaTvavRTFwAW5blPeUXRiqWn9AA\n2964BOjZ3peBRKq3A8In/R2fPw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-uy5vtj4dewsjcdd6rd2uj005cr@coral-shoreline-288605.iam.gserviceaccount.com",
+  "client_id": "106205069187856154685",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-uy5vtj4dewsjcdd6rd2uj005cr%40coral-shoreline-288605.iam.gserviceaccount.com"
+}
